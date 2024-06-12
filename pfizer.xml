@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:pfizer="http://example.org/pfizer#">
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Pfizer">
+   
+    <rdf:type>Pfizer</rdf:type>
+    <rdfs:label>First Quarter 2024 Earnings Teleconference</rdfs:label>
+  </rdf:Description>
+
+
+  <rdf:Description rdf:about="http://example.org/pfizer#intro">
+    <rdf:type>Introduction</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Pfizer" />
+    <rdfs:label>Introduction</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Introduction</rdf:type>
+    <rdfs:Forward-Looking-Statements rdf:resource="http://example.org/pfizer#intro" />
+    <rdfs:label>Anticipated performance</rdfs:label>
+    <rdfs:Description> The conference call will include forward-looking statements regarding Pfizer's anticipated performance, including financial guidance, product pipeline developments, and responses to COVID-19. These statements are subject to substantial risks and uncertainties, such as clinical trial outcomes, regulatory success, and market dynamics.  Investors should be aware of the inherent uncertainties and the potential for actual results  to differ materially from projections.</rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Introduction</rdf:type>
+    <rdfs:Non-GAAP-Financial-Measures rdf:resource="http://example.org/pfizer#intro" />
+    <rdfs:label>Certain financial measures</rdfs:label>
+    <rdfs:Description> Certain financial measures discussed may not adhere to U.S. generally accepted accounting principles (GAAP). Investors should refer to specific disclosures regarding non-GAAP financial measures provided in Pfizer's materials, understanding that these measures may not be directly comparable to GAAP measures and should not be viewed as substitutes for them.</rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Introduction</rdf:type>
+    <rdfs:Audience-and-Intent rdf:resource="http://example.org/pfizer#intro" />
+    <rdfs:label>Audience-and-Intent</rdfs:label>
+    <rdfs:Description> The discussions and presentations are tailored for the investor community, focusing on financial performance and strategic outlook. They are not intended to influence healthcare prescribing decisions or promote specific products. Cross-trial comparisons and anticipated data should be interpreted cautiously due to potential confounding factors.</rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Introduction</rdf:type>
+    <rdfs:Collaborations-and-Commercial-Right rdf:resource="http://example.org/pfizer#intro" />
+    <rdfs:label>Collaborations-and-Commercial-Rights</rdfs:label>
+    <rdfs:Description> Pfizer's products and candidates discussed may involve collaborations with other companies, with Pfizer's rights varying by market. This underscores the complexity of Pfizer's commercialization strategies and highlights the importance of understanding market-specific agreements and partnerships.
+    </rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#remarks">
+    <rdf:type>Opening Remarks</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Pfizer"/>
+    <rdfs:label>Opening Remarks</rdfs:label>
+  </rdf:Description>
+
+
+  <rdf:Description>
+    <rdf:type>Key Priorities</rdf:type>
+    <rdfs:Priorities rdf:resource="http://example.org/pfizer#Key_Priorities" />
+    <rdfs:label>Maximize performance of our new products</rdfs:label>
+  </rdf:Description>
+
+
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Strong_Start_to_the_Year">
+    <rdf:type>Opening Remarks</rdf:type>
+    <rdfs:Breakthroughs rdf:resource="http://example.org/pfizer#remarks" />
+    <rdfs:label>Breakthroughs that change patients’ lives</rdfs:label>
+    <rdfs:Description> >119M Patients Impacted YTD Q1 2024 with our medicines and vaccines
+    </rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Key_Priorities">
+    <rdf:type>Opening Remarks</rdf:type>
+    <rdfs:Strategic-Goals rdf:resource="http://example.org/pfizer#remarks" />
+    <rdfs:label>Key Priorities</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Key Priorities</rdf:type>
+    <rdfs:Priorities rdf:resource="http://example.org/pfizer#Key_Priorities" />
+    <rdfs:label>Achieve world-class oncology leadership</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Key Priorities</rdf:type>
+    <rdfs:Priorities rdf:resource="http://example.org/pfizer#Key_Priorities" />
+    <rdfs:label>Deliver the next wave of pipeline innovation</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Key Priorities</rdf:type>
+    <rdfs:Priorities rdf:resource="http://example.org/pfizer#Key_Priorities" />
+    <rdfs:label>Expand margins by realigning our cost base</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Key Priorities</rdf:type>
+    <rdfs:Priorities rdf:resource="http://example.org/pfizer#Key_Priorities" />
+    <rdfs:label>Allocate capital to enhance shareholder value
+    </rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Oncology_Leadership">
+    <rdf:type>Opening Remarks</rdf:type>
+    <rdfs:Oncology-Leadership rdf:resource="http://example.org/pfizer#remarks" />
+    <rdfs:label>Achieve World-Class Oncology Leadership
+    </rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Oncology Leadership</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Oncology_Leadership" />
+    <rdfs:label>Successful Integration </rdfs:label>
+    <rdfs:Description>Highly experienced, best-of-both organizations</rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Oncology Leadership</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Oncology_Leadership" />
+    <rdfs:label>Q1 2024: Oncology Revenues +19% Op</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Oncology Leadership</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Oncology_Leadership" />
+    <rdfs:label>2030 Oncology Goals</rdfs:label>
+    <rdfs:Description>Double # of patients treated, Increase # of blockbuster medicines from 5 to 8+, Drive 10x increase in proportion of revenue from biologics</rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Pipeline_Innovation">
+    <rdf:type>Opening Remarks</rdf:type>
+    <rdfs:Pipeline-Innovation rdf:resource="http://example.org/pfizer#remarks" />
+    <rdfs:label>Deliver Next Wave of Pipeline Innovation
+    </rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Pipeline Innovation</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Pipeline_Innovation" />
+    <rdfs:label>Excellent Progress in Oncology
+    </rdfs:label>
+    <rdfs:Description>
+      Three pivotal Phase 3 study starts in Q1 2024: Atirmociclib selective CDK4 inhibitor, Sigvotatug vedotin integrin-beta-6-directed ADC, ELREXFIO 4th Phase 3 trial in multiple myeloma
+    </rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Pipeline Innovation</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Pipeline_Innovation" />
+    <rdfs:label>Sharpened Focus Across Therapeutic Areas
+    </rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Maximize_Performance">
+    <rdf:type>Opening Remarks</rdf:type>
+    <rdfs:New-Products rdf:resource="http://example.org/pfizer#remarks" />
+    <rdfs:label>Maximize Performance of New Products
+    </rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Maximize Performance</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Maximize_Performance" />
+    <rdfs:label>Key Potential Growth Drivers
+    </rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Maximize Performance</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Maximize_Performance" />
+    <rdfs:label>Protect / Grow Core Franchises and Key Blockbusters
+    </rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Financial_Review">
+    <rdf:type>Financial Review</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Pfizer" />
+    <rdfs:label>Financial Review</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Quarterly_Income">
+    <rdf:type>Financial Review</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Financial_Review" />
+    <rdfs:label>Quarterly Income Statement Highlights</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Revenues">
+    <rdf:type>Quarterly Income Statement Highlights</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Quarterly_Income" />
+    <rdfs:label>Revenues</rdfs:label>
+    <rdfs:Description>$14.9B (19)% op $12.5B1 11% op Excluding Comirnaty and Paxlovid, op growth primarily driven by legacy Seagen, Vyndaqel family, Eliquis, Abrysvo and Prevnar family, partially offset by lower revenues for Oncology biosimilars in U.S., Sulperazon in ex-U.S. and Ibrance
+    </rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Adjusted_Cost_of_Sales">
+    <rdf:type>Quarterly Income Statement Highlights</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Quarterly_Income" />
+    <rdfs:label>Adjusted Cost of Sales</rdfs:label>
+    <rdfs:Description>$3.0B (34)% op 20.4%5.3 ppts Decrease in COS% driven primarily by favorable changes in sales mix, including lower sales of Comirnaty2 and, to a much lesser extent, the impact of final adjustment to Paxlovid revenue reversal recorded in Q4 2023
+    </rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Adjusted_SIA_Expenses">
+    <rdf:type>Quarterly Income Statement Highlights</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Quarterly_Income" />
+    <rdfs:label>Adjusted SIA Expenses</rdfs:label>
+    <rdfs:Description>$3.5B 3% op Primarily driven by an increase in marketing and promotional expenses for recently acquired and launched products, partially offset by a decrease in marketing and promotional expenses for Paxlovid and Comirnaty
+    </rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Allocating_Capital">
+    <rdf:type>Financial Review</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Financial_Review" />
+    <rdfs:label>Allocating Capital to Enhance Shareholder Value</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Allocating Capital to Enhance Shareholder Value</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Allocating_Capital" />
+    <rdfs:label>Maintain and grow our dividend</rdfs:label>
+    <rdfs:Description>$2.4B Returned to Shareholders</rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Allocating Capital to Enhance Shareholder Value</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Allocating_Capital" />
+    <rdfs:label>De-lever Our Balance Sheet</rdfs:label>
+    <rdfs:Description>$1.3B In debt paid </rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Allocating Capital to Enhance Shareholder Value</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Allocating_Capital" />
+    <rdfs:label>Share Repurchases</rdfs:label>
+    <rdfs:Description>None planned in 2024</rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description>
+    <rdf:type>Allocating Capital to Enhance Shareholder Value</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Allocating_Capital" />
+    <rdfs:label>Reinvest in Business</rdfs:label>
+    <rdfs:Description>$2.5B In internal R and D </rdfs:Description>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/pfizer#Person">
+    <rdf:type>Person</rdf:type>
+    <rdfs:Includes rdf:resource="http://example.org/pfizer#Pfizer" />
+    <rdfs:label>Person</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description >
+    <rdf:type>Person</rdf:type>
+    <rdfs:Chief-Oncology-Officer rdf:resource="http://example.org/pfizer#Person" />
+    <rdfs:label>Chris Boshoff</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description >
+    <rdf:type>Person</rdf:type>
+    <rdfs:CFO rdf:resource="http://example.org/pfizer#Person" />
+    <rdfs:label>David Denton</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description >
+    <rdf:type>Person</rdf:type>
+    <rdfs:Chairman-and-CEO rdf:resource="http://example.org/pfizer#Person" />
+    <rdfs:label>Albert Bourla</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description >
+    <rdf:type>Person</rdf:type>
+    <rdfs:President rdf:resource="http://example.org/pfizer#Person" />
+    <rdfs:label>Mikael Dolsten</rdfs:label>
+  </rdf:Description>
+
+</rdf:RDF>

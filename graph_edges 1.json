@@ -1,0 +1,1742 @@
+[
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Bilbo Baggins"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Bilbo Baggins celebrates his birthday and leaves the Ring to Frodo, his heir.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Gandalf suspects the Ring is a Ring of Power and counsels Frodo to take it away from the Shire.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Sauron"
+        },
+        "relationship": "Gandalf confirms the Ring was lost by the Dark Lord Sauron.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Gandalf counsels Frodo to take the Ring away from the Shire.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Gandalf promises to return but fails to do so.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Pippin Took"
+        },
+        "relationship": "Frodo sets out on foot with his cousin Pippin Took.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Sam Gamgee"
+        },
+        "relationship": "Frodo sets out on foot with gardener Sam Gamgee.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Hobbits"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Black Riders"
+        },
+        "relationship": "The Hobbits are pursued by Black Riders.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Hobbits"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Elves"
+        },
+        "relationship": "The Hobbits meet some Elves.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Hobbits"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Merry Brandybuck"
+        },
+        "relationship": "The Hobbits meet their friend Merry Brandybuck at Bucklebury Ferry.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Merry Brandybuck"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Merry Brandybuck and Pippin Took reveal they know about the Ring and insist on joining Frodo on his journey.",
+        "order": 0
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Merry"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Pippin"
+        },
+        "relationship": "Merry and Pippin are rescued by Tom Bombadil.",
+        "order": 1
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Tom Bombadil"
+        },
+        "relationship": "Frodo calls Tom Bombadil to free them from the barrow-wight's spell.",
+        "order": 1
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Tom Bombadil"
+        },
+        "relationship": "Tom Bombadil gives Frodo ancient swords from the wight's hoard.",
+        "order": 1
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Hobbits"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "village of Bree"
+        },
+        "relationship": "The Hobbits reach the village of Bree.",
+        "order": 1
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Hobbits"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Strider"
+        },
+        "relationship": "The Hobbits meet Strider, a Ranger, in the village of Bree.",
+        "order": 1
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "innkeeper"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "The innkeeper gives Frodo an old letter from Gandalf.",
+        "order": 1
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "innkeeper"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Strider"
+        },
+        "relationship": "The innkeeper's letter identifies Strider as a friend of Gandalf.",
+        "order": 1
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Strider"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Elvish sanctuary of Rivendell"
+        },
+        "relationship": "Strider guides the group toward the Elvish sanctuary of Rivendell.",
+        "order": 1
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Black Riders"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "The leader of the Black Riders wounds Frodo with a cursed blade.",
+        "order": 2
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Strider"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Black Riders"
+        },
+        "relationship": "Strider fights off the Black Riders.",
+        "order": 2
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Strider"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Strider treats Frodo with the herb athelas.",
+        "order": 2
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Elf Glorfindel"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Elf Glorfindel rides with Frodo towards Rivendell.",
+        "order": 2
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Black Riders"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Ford of Bruinen"
+        },
+        "relationship": "The Black Riders pursue Frodo into the Ford of Bruinen.",
+        "order": 2
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Elrond"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Black Riders"
+        },
+        "relationship": "Elrond summons flood waters to sweep away the Black Riders at the Ford of Bruinen.",
+        "order": 2
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Rivendell"
+        },
+        "relationship": "Frodo recovers in Rivendell under Elrond's care.",
+        "order": 2
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Gandalf informs Frodo about the Black Riders being the Nazg\u00fbl enslaved by Rings of Power to serve Sauron.",
+        "order": 2
+    },
+    {
+        "node_1": {
+            "label": "Event",
+            "name": "The Council of Elrond"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "Ring"
+        },
+        "relationship": "The Council of Elrond discusses what to do with the Ring.",
+        "order": 3
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Strider"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "relationship": "Strider is revealed to be Aragorn, the heir of Isildur.",
+        "order": 3
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Isildur"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "Ring"
+        },
+        "relationship": "Isildur had cut the Ring from Sauron's hand in the Second Age.",
+        "order": 3
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Isildur"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "relationship": "The Ring passed from Isildur to Gollum.",
+        "order": 3
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Bilbo"
+        },
+        "relationship": "The Ring passed from Gollum to Bilbo.",
+        "order": 3
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Saruman"
+        },
+        "relationship": "Gandalf reports that Saruman is a traitor.",
+        "order": 3
+    },
+    {
+        "node_1": {
+            "label": "Event",
+            "name": "The Council of Elrond"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "Ring"
+        },
+        "relationship": "The Council decides that the Ring must be destroyed in the fire of Mount Doom in Mordor.",
+        "order": 3
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "Ring"
+        },
+        "relationship": "Frodo takes the task of destroying the Ring upon himself.",
+        "order": 3
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Elrond"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "relationship": "Elrond chooses Sam as one of his companions.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Elrond"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Merry"
+        },
+        "relationship": "Elrond chooses Merry as one of his companions.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Elrond"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Pippin"
+        },
+        "relationship": "Elrond chooses Pippin as one of his companions.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Elrond"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "relationship": "Elrond chooses Gandalf as one of his companions.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Elrond"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "relationship": "Elrond chooses Aragorn as one of his companions.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Elrond"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "relationship": "Elrond chooses Boromir as one of his companions.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "relationship": "Aragorn and Boromir are both Men.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gimli"
+        },
+        "relationship": "Boromir and Gimli are part of the Fellowship representing the Free Peoples of the West.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Balrog"
+        },
+        "relationship": "Gandalf confronts the Balrog during the encounter in the Mines of Moria.",
+        "order": 4
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Lady Galadriel"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Lothl\u00f3rien"
+        },
+        "relationship": "Lady Galadriel tests the loyalty of the others in the Elvish forest of Lothl\u00f3rien.",
+        "order": 5
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Lady Galadriel"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "magical gifts"
+        },
+        "relationship": "Lady Galadriel gives magical gifts to the others in Lothl\u00f3rien.",
+        "order": 5
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Lothl\u00f3rien"
+        },
+        "relationship": "Frodo and Sam look into Lady Galadriel's vision-giving fountain, the Mirror of Galadriel, in Lothl\u00f3rien.",
+        "order": 5
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Lady Galadriel"
+        },
+        "relationship": "Frodo offers the Ring to Lady Galadriel, but she refuses knowing that it would master her.",
+        "order": 5
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Celeborn"
+        },
+        "node_2": {
+            "label": "Organisation",
+            "name": "Fellowship"
+        },
+        "relationship": "Celeborn gives the Fellowship boats, cloaks, and waybread.",
+        "order": 5
+    },
+    {
+        "node_1": {
+            "label": "Place",
+            "name": "Amon Hen"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "relationship": "At Amon Hen, Boromir tries to take the Ring.",
+        "order": 5
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Mordor"
+        },
+        "relationship": "Frodo chooses to cross the river and go alone to Mordor.",
+        "order": 5
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Sam intercepts Frodo, guessing his intentions to go alone to Mordor.",
+        "order": 5
+    },
+    {
+        "node_1": {
+            "label": "Organisation",
+            "name": "Fellowship"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "relationship": "Boromir tries to protect Merry and Pippin from the Orcs",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Merry"
+        },
+        "relationship": "Boromir tries to protect Merry from the Orcs",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Pippin"
+        },
+        "relationship": "Boromir tries to protect Pippin from the Orcs",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Orcs"
+        },
+        "relationship": "Boromir is killed by the Orcs",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Orcs"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Merry"
+        },
+        "relationship": "The Orcs capture Merry",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Orcs"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Pippin"
+        },
+        "relationship": "The Orcs capture Pippin",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gimli"
+        },
+        "relationship": "Aragorn decides to pursue the Orcs with Gimli",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Legolas"
+        },
+        "relationship": "Aragorn decides to pursue the Orcs with Legolas",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Orcs"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Riders of Rohan"
+        },
+        "relationship": "The Orcs are killed by Riders of Rohan",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Riders of Rohan"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "\u00c9omer"
+        },
+        "relationship": "\u00c9omer leads the Riders of Rohan",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Hobbits"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Fangorn Forest"
+        },
+        "relationship": "The Hobbits escape into Fangorn Forest",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Place",
+            "name": "Fangorn Forest"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Ent Treebeard"
+        },
+        "relationship": "The Hobbits are befriended by the Ent Treebeard in Fangorn Forest",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gimli"
+        },
+        "relationship": "Aragorn tracks the hobbits to Fangorn with Gimli",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Legolas"
+        },
+        "relationship": "Aragorn tracks the hobbits to Fangorn with Legolas",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Fangorn Forest"
+        },
+        "relationship": "Aragorn tracks the hobbits to Fangorn",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Place",
+            "name": "Fangorn Forest"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "relationship": "Aragorn, Gimli, and Legolas meet Gandalf in Fangorn Forest",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Balrog"
+        },
+        "relationship": "Gandalf explains that he killed the Balrog",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Saruman"
+        },
+        "relationship": "Gandalf replaces Saruman as chief of the wizards",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "King Th\u00e9oden"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gr\u00edma Wormtongue"
+        },
+        "relationship": "King Th\u00e9oden is influenced by Saruman's spy Gr\u00edma Wormtongue",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "King Th\u00e9oden"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Helm's Deep"
+        },
+        "relationship": "King Th\u00e9oden rides to the fortress of Helm's Deep",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Treebeard"
+        },
+        "relationship": "Gandalf seeks help from Treebeard",
+        "order": 6
+    },
+    {
+        "node_1": {
+            "label": "Miscellaneous",
+            "name": "Ents"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Isengard"
+        },
+        "relationship": "The Ents destroy Isengard",
+        "order": 7
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Treebeard"
+        },
+        "relationship": "Gandalf convinces Treebeard to send an army of Huorns to Th\u00e9oden's aid",
+        "order": 7
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Helm's Deep"
+        },
+        "relationship": "Gandalf brings an army of Riders of Rohan to Helm's Deep",
+        "order": 7
+    },
+    {
+        "node_1": {
+            "label": "Miscellaneous",
+            "name": "Orcs"
+        },
+        "node_2": {
+            "label": "Miscellaneous",
+            "name": "Huorns"
+        },
+        "relationship": "The Orcs are defeated by the army of Riders of Rohan and flee into the forest of Huorns where they are destroyed",
+        "order": 7
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Saruman"
+        },
+        "relationship": "Gandalf offers Saruman a chance to turn away from evil",
+        "order": 7
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Saruman"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "relationship": "Saruman refuses, Gandalf strips him of his rank and most of his powers.",
+        "order": 8
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Wormtongue"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "relationship": "Wormtongue throws down a hard round object to try to kill Gandalf.",
+        "order": 8
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Pippin"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "relationship": "Pippin picks up a hard round object; Gandalf swiftly takes it, but Pippin steals it in the night.",
+        "order": 8
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Saruman"
+        },
+        "node_2": {
+            "label": "Miscellaneous",
+            "name": "palant\u00edr"
+        },
+        "relationship": "Saruman used the palant\u00edr to speak with Sauron, becoming ensnared.",
+        "order": 8
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sauron"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Pippin"
+        },
+        "relationship": "Sauron sees Pippin, but misunderstands the circumstances.",
+        "order": 8
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Minas Tirith"
+        },
+        "relationship": "Gandalf rides for Minas Tirith, chief city of Gondor, taking Pippin with him.",
+        "order": 8
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "relationship": "Frodo captures Gollum on a moonlit night in the Emyn Muil, who has been following them from Moria.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "relationship": "Frodo makes Gollum swear to serve him as Ringbearer and asks him to guide them to Mordor.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "relationship": "Gollum leads Frodo and Sam across the Dead Marshes.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "relationship": "Sam overhears Gollum debating with his alter ego, Sm\u00e9agol, about stealing the Ring.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Mordor"
+        },
+        "relationship": "Frodo, Sam, and Gollum travel to Mordor guided by Gollum.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Moria"
+        },
+        "relationship": "Gollum follows Frodo and Sam from Moria to the Emyn Muil.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Ithilien"
+        },
+        "relationship": "Frodo, Sam, and Gollum travel south through Ithilien to find a secret pass to Mordor.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Dead Marshes"
+        },
+        "relationship": "Gollum leads Frodo and Sam across the Dead Marshes on their journey.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Faramir"
+        },
+        "relationship": "Frodo, Sam, and Gollum are captured by rangers led by Faramir in Ithilien.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Faramir"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Boromir"
+        },
+        "relationship": "Faramir is the brother of Boromir.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Faramir"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Henneth Ann\u00fbn"
+        },
+        "relationship": "Faramir brings Frodo, Sam, and Gollum to the secret fastness of Henneth Ann\u00fbn.",
+        "order": 9
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Faramir"
+        },
+        "node_2": {
+            "label": "Action",
+            "name": "arrest strangers"
+        },
+        "relationship": "Faramir disobeys orders to arrest strangers.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "hobbits"
+        },
+        "relationship": "Gollum guides the hobbits to the pass.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "lair of the great spider Shelob in the tunnels of Cirith Ungol"
+        },
+        "relationship": "Gollum leads the hobbits into the lair of the great spider Shelob in the tunnels of Cirith Ungol.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "Phial of Galadriel"
+        },
+        "relationship": "Frodo holds up his gift, the Phial of Galadriel.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "sword Sting"
+        },
+        "relationship": "Frodo cuts through a giant web using his sword Sting.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Shelob"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Shelob attacks Frodo.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "Sting"
+        },
+        "relationship": "Sam picks up Sting.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "Phial"
+        },
+        "relationship": "Sam picks up the Phial.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Sam believes Frodo to be dead.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Object",
+            "name": "Ring"
+        },
+        "relationship": "Sam takes the Ring to continue the quest alone.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Orcs"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Orcs take Frodo.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Sam overhears Orcs saying that Frodo is still alive.",
+        "order": 10
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sauron"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Gondor"
+        },
+        "relationship": "Sauron sends a great army against Gondor.",
+        "order": 11
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Minas Tirith"
+        },
+        "relationship": "Gandalf arrives at Minas Tirith to warn Denethor of the attack.",
+        "order": 11
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Th\u00e9oden"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Rohan"
+        },
+        "relationship": "Th\u00e9oden musters the Riders of Rohan to go to Gondor's aid.",
+        "order": 11
+    },
+    {
+        "node_1": {
+            "label": "Place",
+            "name": "Minas Tirith"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Denethor"
+        },
+        "relationship": "Minas Tirith is besieged; Denethor falls into despair.",
+        "order": 11
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Denethor"
+        },
+        "node_2": {
+            "label": "Miscellaneous",
+            "name": "Sauron"
+        },
+        "relationship": "Denethor, deceived by Sauron, falls into despair.",
+        "order": 11
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Denethor"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Faramir"
+        },
+        "relationship": "Pippin and Gandalf rescue Denethor's son Faramir from the same fate.",
+        "order": 11
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Paths of the Dead"
+        },
+        "relationship": "Aragorn takes the Paths of the Dead to recruit the Dead Men of Dunharrow.",
+        "order": 11
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Miscellaneous",
+            "name": "King of Gondor"
+        },
+        "relationship": "Oathbreakers who will have no rest until they fight for the King of Gondor.",
+        "order": 11
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Minas Tirith"
+        },
+        "relationship": "Aragorn enters Minas Tirith and heals the sick.",
+        "order": 12
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Ithilien"
+        },
+        "relationship": "Aragorn leads an army through Ithilien to the Black Gate to distract Sauron from his true danger.",
+        "order": 12
+    },
+    {
+        "node_1": {
+            "label": "Place",
+            "name": "Minas Tirith"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Th\u00e9oden"
+        },
+        "relationship": "Th\u00e9oden is killed at Minas Tirith.",
+        "order": 12
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "\u00c9owyn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Th\u00e9oden"
+        },
+        "relationship": "\u00c9owyn, Th\u00e9oden's niece, kills the Lord of the Nazg\u00fbl.",
+        "order": 12
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "\u00c9owyn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Merry"
+        },
+        "relationship": "\u00c9owyn kills the Lord of the Nazg\u00fbl with help from Merry.",
+        "order": 12
+    },
+    {
+        "node_1": {
+            "label": "Place",
+            "name": "Pelennor Fields"
+        },
+        "node_2": {
+            "label": "Organisation",
+            "name": "Gondor"
+        },
+        "relationship": "Gondor and Rohan defeat Sauron's army in the Battle of the Pelennor Fields.",
+        "order": 12
+    },
+    {
+        "node_1": {
+            "label": "Organisation",
+            "name": "Gondor"
+        },
+        "node_2": {
+            "label": "Organisation",
+            "name": "Rohan"
+        },
+        "relationship": "Gondor and Rohan defeat Sauron's army in the Battle of the Pelennor Fields.",
+        "order": 12
+    },
+    {
+        "node_1": {
+            "label": "Place",
+            "name": "Morannon"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "relationship": "At the Battle of the Morannon, Aragorn's army is vastly outnumbered.",
+        "order": 12
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Sam rescues Frodo from the tower of Cirith Ungol.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Mordor"
+        },
+        "relationship": "They set out across Mordor.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Cracks of Doom"
+        },
+        "relationship": "When they reach the edge of the Cracks of Doom, Frodo cannot resist the Ring any longer: he claims it for himself and puts it on.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Gollum reappears. He bites off Frodo's Ring finger.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Gollum"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Fire"
+        },
+        "relationship": "Celebrating wildly, Gollum loses his footing and falls into the Fire, taking the Ring with him.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Ring"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Sauron"
+        },
+        "relationship": "When the Ring is destroyed, Sauron loses his power.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sauron"
+        },
+        "node_2": {
+            "label": "Miscellaneous",
+            "name": "All he created"
+        },
+        "relationship": "All he created collapses.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Miscellaneous",
+            "name": "Nazg\u00fbl"
+        },
+        "node_2": {
+            "label": "Miscellaneous",
+            "name": "Aragorn"
+        },
+        "relationship": "the Nazg\u00fbl perish, and Aragorn wins the battle of the Morannon.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Arwen"
+        },
+        "relationship": "Aragorn is crowned King, and weds Arwen, Elrond's daughter.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Th\u00e9oden"
+        },
+        "node_2": {
+            "label": "Miscellaneous",
+            "name": "\u00c9omer"
+        },
+        "relationship": "Th\u00e9oden is buried; \u00c9omer is crowned King of Rohan.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Miscellaneous",
+            "name": "\u00c9omer"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "\u00c9owyn"
+        },
+        "relationship": "His sister \u00c9owyn is engaged to Faramir, now Steward of Gondor and Prince of Ithilien.",
+        "order": 13
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Galadriel"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Celeborn"
+        },
+        "relationship": "Galadriel and Celeborn say farewell to Treebeard and Aragorn.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Galadriel"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "relationship": "Galadriel and Gandalf say farewell to Treebeard and Aragorn.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Celeborn"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Gandalf"
+        },
+        "relationship": "Celeborn and Gandalf say farewell to Treebeard and Aragorn.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Treebeard"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Aragorn"
+        },
+        "relationship": "Treebeard and Aragorn are bid farewell by Galadriel, Celeborn, and Gandalf.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Merry"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Saruman"
+        },
+        "relationship": "Merry raises a rebellion and scours the Shire, which has been taken over by Saruman's men.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Wormtongue"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Saruman"
+        },
+        "relationship": "Wormtongue turns on Saruman and kills him in front of Bag End, Frodo's home.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Wormtongue"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "relationship": "Wormtongue kills Saruman in front of Bag End, Frodo's home, and is in turn killed by hobbit archers.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Merry"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Pippin"
+        },
+        "relationship": "Merry and Pippin are celebrated as heroes.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Person",
+            "name": "Rosie Cotton"
+        },
+        "relationship": "Sam marries Rosie Cotton.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Sam"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Shire"
+        },
+        "relationship": "Sam uses his gifts to heal the Shire.",
+        "order": 14
+    },
+    {
+        "node_1": {
+            "label": "Person",
+            "name": "Frodo"
+        },
+        "node_2": {
+            "label": "Place",
+            "name": "Grey Havens"
+        },
+        "relationship": "Frodo sails from the Grey Havens over the Sea to find peace, broken by the quest.",
+        "order": 14
+    }
+]
